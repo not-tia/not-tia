@@ -1,10 +1,13 @@
-## Hi there 👋
-# this is tado
-#### welcome
-### list:
-- adf
-- asdfas
-- asdf
+## Hi there 
+# I am **Tadeo** 
+### *or Ivan if your prefer*
+## I am currently studying for Licenciatura en Informática at Universidad Nacional de La Plata
+#### Things I'm interested in: 
+- Rust
+- Video Game development
+- Deployed Systems
+- Concurrency
+- Maps
 <!--
 **not-tia/not-tia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
